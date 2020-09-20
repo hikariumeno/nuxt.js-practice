@@ -1,5 +1,7 @@
 # nuxt.js-practice
 
+![Node.js CI](https://github.com/hikariumeno/nuxt.js-practice/workflows/Node.js%20CI/badge.svg)
+
 ## Build Setup
 
 ```bash
